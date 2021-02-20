@@ -12,7 +12,7 @@ Gerekli Programlar.
 
 ## İndirme ve Kurulum
 
-### indirmeler [fvm](https://github.com/qlaffont/fvm-installer)
+### indirmeler
 
 ```
 fvm install --save --folder=essential esx-org/es_extended
