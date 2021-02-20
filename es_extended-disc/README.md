@@ -1,4 +1,5 @@
-# es_extended
+# es_extended 
+disc versiyonu %100 çalışır durumda
 
 ## Requirements
 
