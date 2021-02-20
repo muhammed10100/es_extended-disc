@@ -33,14 +33,14 @@ git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
 
 ### Manuel olarak kurulum
 
-- Download https://github.com/ESX-Org/es_extended/releases/latest
-- Put it in the `resource/[essential]` directory
-- Download https://github.com/ESX-Org/esx_menu_default/releases/latest
-- Put it in the `resource/[esx]/[ui]` directory
-- Download https://github.com/ESX-Org/esx_menu_dialog/releases/latest
-- Put it in the `resource/[esx]/[ui]` directory
-- Download https://github.com/ESX-Org/esx_menu_list/releases/latest
-- Put it in the `resource/[esx]/[ui]` directory
+- İndir https://github.com/ESX-Org/es_extended/releases/latest
+- İçine koy `resource/[essential]` dizin
+- İndir https://github.com/ESX-Org/esx_menu_default/releases/latest
+- İçine koy `resource/[esx]/[ui]` dizin
+- İndir https://github.com/ESX-Org/esx_menu_dialog/releases/latest
+- İçine koy `resource/[esx]/[ui]` dizin
+- İndir https://github.com/ESX-Org/esx_menu_list/releases/latest
+- İçine koy `resource/[esx]/[ui]` dizin
 
 ### Kurulum
 
