@@ -1,7 +1,7 @@
 # es_extended 
 disc versiyonu %100 çalışır durumda
 
-## Requirements
+## Gereksinimler
 
 Gerekli Programlar.
 
@@ -10,9 +10,9 @@ Gerekli Programlar.
 - [esplugin_mysql](https://github.com/kanersps/esplugin_mysql)
 - [async](https://github.com/ESX-Org/async)
 
-## Download & Installation
+## İndirme ve Kurulum
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
+### indirmeler [fvm](https://github.com/qlaffont/fvm-installer)
 
 ```
 fvm install --save --folder=essential esx-org/es_extended
@@ -21,7 +21,7 @@ fvm install --save --folder=esx esx-org/esx_menu_dialog
 fvm install --save --folder=esx esx-org/esx_menu_list
 ```
 
-### Using Git
+### Github kullanma
 
 ```
 cd resources
@@ -31,7 +31,7 @@ git clone https://github.com/ESX-Org/esx_menu_dialog [esx]/[ui]/esx_menu_dialog
 git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
 ```
 
-### Manually
+### Manuel olarak kurulum
 
 - Download https://github.com/ESX-Org/es_extended/releases/latest
 - Put it in the `resource/[essential]` directory
@@ -42,10 +42,10 @@ git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
 - Download https://github.com/ESX-Org/esx_menu_list/releases/latest
 - Put it in the `resource/[esx]/[ui]` directory
 
-### Installation
+### Kurulum
 
-- Import `es_extended.sql` in your database
-- Configure your `server.cfg` to look like this
+- yazdor `es_extended.sql` bunu databae ye.
+- cfg ye yaz start ver `server.cfg` .
 
 ```
 start mysql-async
